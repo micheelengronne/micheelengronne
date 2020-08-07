@@ -6,7 +6,7 @@ From a double formation of IT project engineer and manager, I have a specialty i
 
 - 🔭 I'm currently working on developing the [@Coppint] company tools and infrastructure.
 
-- 💬 I talk about cybersecurity and DevSecOps. I create 🎞️ Videos, slides, diagrams and write 📋 articles (mainly in 🇫🇷 french) on the [Limawi platform], its [blog](https://blog.limawi.io), its [Youtube channel](https://www.youtube.com/channel/UCxOvLOXTZFhy8NPMsxg5ogw) and its [Instagram account](https://www.instagram.com/limawi.official.fr/).
+- 💬 I talk about cybersecurity and DevSecOps. I create 🎞️ videos, slides, diagrams and write 📋 articles (mainly in 🇫🇷 french) on the [Limawi platform], its [blog](https://blog.limawi.io), its [Youtube channel](https://www.youtube.com/channel/UCxOvLOXTZFhy8NPMsxg5ogw) and its [Instagram account](https://www.instagram.com/limawi.official.fr/).
 
 - I like strict semantics respect.
 

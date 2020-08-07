@@ -14,13 +14,13 @@ From a double formation of IT project engineer and manager, I have a specialty i
 * [Facebook]
 * [Instagram]
 
-[@Coppint]: /https://github.com/Coppint "Coppint Github team"
-[Limawi platform]: /https://limawi.io "Limawi website"
-[Linkedin]: /https://www.linkedin.com/in/micheelengronne "Michée Lengronne LinkedIn profile"
-[Twitter]: /https://twitter.com/MicheeLengronne "Michée Lengronne Twitter"
-[StackOverflow]: /https://stackoverflow.com/story/micheelengronne "Michée Lengronne StackOverflow"
-[Facebook]: /https://www.facebook.com/michee.lengronne/ "Michée Lengronne Facebook"
-[Instagram]: /https://www.instagram.com/michee.lengronne/ "Michée Lengronne Instagram"
+[@Coppint]: https://github.com/Coppint "Coppint Github team"
+[Limawi platform]: https://limawi.io "Limawi website"
+[Linkedin]: https://www.linkedin.com/in/micheelengronne "Michée Lengronne LinkedIn profile"
+[Twitter]: https://twitter.com/MicheeLengronne "Michée Lengronne Twitter"
+[StackOverflow]: https://stackoverflow.com/story/micheelengronne "Michée Lengronne StackOverflow"
+[Facebook]: https://www.facebook.com/michee.lengronne/ "Michée Lengronne Facebook"
+[Instagram]: https://www.instagram.com/michee.lengronne/ "Michée Lengronne Instagram"
 
 <!--
 **micheelengronne/micheelengronne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

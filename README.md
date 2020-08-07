@@ -8,7 +8,11 @@ From a double formation of IT project engineer and manager, I have a specialty i
 
 - 📫 You can reach me on:
 
-[Linkedin] [Twitter] [StackOverflow] [Facebook] [Instagram]
+* [Linkedin]
+* [Twitter]
+* [StackOverflow]
+* [Facebook]
+* [Instagram]
 
 [@Coppint]: /https://github.com/Coppint "Coppint Github team"
 [Limawi platform]: /https://limawi.io "Limawi website"

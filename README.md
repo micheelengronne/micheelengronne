@@ -1,3 +1,5 @@
+![A dead chestnut tree leef](banner.png)
+
 ### Michée Lengronne
 
 From a double formation of IT project engineer and manager, I have a specialty in IT security and opensource world.

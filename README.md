@@ -1,4 +1,14 @@
-### Hi there 👋
+### Michée Lengronne
+
+From a double formation of IT project engineer and manager, I have a specialty in IT security and opensource world.
+
+I'm currently working on developing the [@Coppint] company tools and infrastructure.
+
+You can reach me on:
+
+|Linkedin|Twitter|StackOverflow|Facebook|Instagram|Youtube|
+
+[@Coppint]: /https://github.com/Coppint "Coppint Github team"
 
 <!--
 **micheelengronne/micheelengronne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

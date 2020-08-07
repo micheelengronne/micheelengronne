@@ -1,4 +1,4 @@
-![A dead chestnut tree leef](https://micheelengronne.github.io/micheelengronne/banner.png)
+![A dead chestnut tree leef](https://micheelengronne.github.io/micheelengronne/Banner2020.jpg)
 
 ### Michée Lengronne
 

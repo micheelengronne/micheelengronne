@@ -6,7 +6,9 @@ From a double formation of IT project engineer and manager, I have a specialty i
 
 - 🔭 I'm currently working on developing the [@Coppint] company tools and infrastructure.
 
-- 💬 I talk about cybersecurity and DevSecOps. I create Videos, slides, diagrams and write articles (mainly in french) on the [Limawi platform], its [blog](https://blog.limawi.io), its [Youtube channel](https://www.youtube.com/channel/UCxOvLOXTZFhy8NPMsxg5ogw) and its [Instagram account](https://www.instagram.com/limawi.official.fr/).
+- 💬 I talk about cybersecurity and DevSecOps. I create 🎞️ Videos, slides, diagrams and write 📋 articles (mainly in 🇫🇷 french) on the [Limawi platform], its [blog](https://blog.limawi.io), its [Youtube channel](https://www.youtube.com/channel/UCxOvLOXTZFhy8NPMsxg5ogw) and its [Instagram account](https://www.instagram.com/limawi.official.fr/).
+
+- I like strict semantics respect.[^1]
 
 - 📫 You can reach me on:
 
@@ -23,6 +25,8 @@ From a double formation of IT project engineer and manager, I have a specialty i
 [StackOverflow]: https://stackoverflow.com/story/micheelengronne "Michée Lengronne StackOverflow"
 [Facebook]: https://www.facebook.com/michee.lengronne/ "Michée Lengronne Facebook"
 [Instagram]: https://www.instagram.com/michee.lengronne/ "Michée Lengronne Instagram"
+
+[^1]: This README is entirely done in markdown.
 
 <!--
 **micheelengronne/micheelengronne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

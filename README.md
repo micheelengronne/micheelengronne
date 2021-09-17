@@ -4,9 +4,9 @@
 
 From a double formation of IT project engineer and manager, I have a specialty in IT security and opensource world.
 
-- 🔭 I'm currently working on developing the [@Coppint] company tools and infrastructure.
+- 🔭 I'm currently working on developing the [Limawi] company tools and infrastructure.
 
-- 💬 I talk about cybersecurity and DevSecOps. I create 🎞️ videos, slides, diagrams and write 📋 articles (mainly in 🇫🇷 french) on the [Limawi platform], its [blog](https://blog.limawi.io), its [Youtube channel](https://www.youtube.com/channel/UCxOvLOXTZFhy8NPMsxg5ogw) and its [Instagram account](https://www.instagram.com/limawi.official.fr/).
+- 💬 I talk about cybersecurity and DevSecOps. I create 🎞️ videos, slides, diagrams and write 📋 articles (mainly in 🇫🇷 french) on the [Limawi] platform, its [blog](https://blog.limawi.io), its [Youtube channel](https://www.youtube.com/channel/UCxOvLOXTZFhy8NPMsxg5ogw) and its [Instagram account](https://www.instagram.com/limawi.official.fr/).
 
 - I like strict semantics respect.
 
@@ -19,7 +19,7 @@ From a double formation of IT project engineer and manager, I have a specialty i
 * [Instagram]
 
 [@Coppint]: https://github.com/Coppint "Coppint Github team"
-[Limawi platform]: https://limawi.io "Limawi website"
+[Limawi]: https://limawi.io "Limawi website"
 [Linkedin]: https://www.linkedin.com/in/micheelengronne "Michée Lengronne LinkedIn profile"
 [Twitter]: https://twitter.com/MicheeLengronne "Michée Lengronne Twitter"
 [StackOverflow]: https://stackoverflow.com/story/micheelengronne "Michée Lengronne StackOverflow"

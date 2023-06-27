@@ -11,6 +11,11 @@ From a double formation of IT project engineer and manager, I have a specialty i
 * Speak french, english and german (intermediary level)
 
 # Experience
+* Scigility
+  * Platform Engineer : Since march 2022.
+    * Leading the development of a Big Data (Synapse) platform on Azure with Terraform.
+    * Developing a Kafka cluster on-premise with Puppet.
+    * Developing a Big Data platform on-premise with Docker Swarm.
 * Coppint
   * Co-founder (Limawi as DevOps tools) : Since june 2020, developping Limawi. Cloud, DevOps and tools for all of that.
     * Developing a [containerised Concourse-ci Ansible deploy (french)](https://www.youtube.com/watch?v=mNDugLHHu4s&list=PLxwBo3NMK7iLDj_Mma5_Ks-iPuIfr-dZC).

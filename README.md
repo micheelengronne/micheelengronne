@@ -2,22 +2,43 @@
 
 ### Michée Lengronne
 
-From a double formation of IT project engineer and manager, I have a specialty in IT security and opensource world.
+Transforming your infrastructures and data to 0-trust, on-premise cloud-native data platforms by engineering and architecture.
+
+Expertise in Platform, Big Data, DevOps, IT security (DevSecOps) and Opensource.
+
+Platform: [Ansible](https://docs.ansible.com/), [Kubernetes](https://kubernetes.io/) (and [Openshift](https://www.redhat.com/fr/technologies/cloud-computing/openshift)), [Cilium](https://cilium.io/), [Vagrant](https://developer.hashicorp.com/vagrant), [Inspec](https://github.com/inspec/inspec), [KVM](https://www.redhat.com/en/topics/virtualization/what-is-KVM), [Docker](https://www.docker.com/), [Gitlab](https://about.gitlab.com/), [Terraform](https://developer.hashicorp.com/terraform), [Pulumi](https://www.pulumi.com/)
+
+Data: [Kafka](https://kafka.apache.org/), [Nifi](https://nifi.apache.org/), [Trino](https://trino.io/), [Spark](https://spark.apache.org/), [Datahub](https://datahub.com/), [Metabase](https://www.metabase.com/), [Metastore](https://lakefs.io/blog/hive-metastore-why-its-still-here-and-what-can-replace-it/)
+
+Compliance and Security: [OWASP SAMM](https://owaspsamm.org/model/), TLS, [Kyverno](https://kyverno.io/), GnuPG, [Metasploit](https://www.metasploit.com/), [ZAP](https://www.zaproxy.org/)
+
+Languages: Python, Ruby, Golang
 
 * [Website](https://michee.io/en-us/)
 * [CV to download](https://michee.io/en-us/CV_en-us_MichéeLengronne.pdf)
 * Swiss and French
 * [LinkedIn](https://www.linkedin.com/in/micheelengronne/)
 * Speak french, english and german (intermediary level)
+* Free from all military obligations
+* Valid swiss personal security control ([PSP](https://www.sepos.admin.ch/de/personensicherheitspruefung))
 
 # Experience
-* Scigility
+* [Scigility](https://scigility.com/en/)
   * Platform Engineer : Since march 2022.
+    * Architecture of a Big Data platform based on Openshift in a 0-trust and highly sensitive environment. Customer under NDA.
+    * Developing a service based on Kafka and Nifi with Openshift, Stackable and Ansible in a 0-trust and highly sensitive environment. Customer under NDA.
+    * Developing a Big Data platform on-premise (Trino, Nifi, Airflow, Spark, Metabase, Datahub and Metastore) with Docker Swarm and Ansible in a highly sensitive environment. Customer under NDA.
+    * Developing a Kafka cluster on-premise (KsqlDB, Connect and Registry), air gap on RHEL with Puppet in a highly sensitive environment. Customer under NDA.
+    * Leading the development of a SSO solution between Google Workspace, AWS, Azure and multiple others.
+    * Leading the improvement of email security and deliverability (SPF, DKIM, DMARC...)
     * Leading the development of a Big Data (Synapse) platform on Azure with Terraform.
-    * Developing a Kafka cluster on-premise with Puppet.
-    * Developing a Big Data platform on-premise with Docker Swarm.
-* Coppint
-  * Co-founder (Limawi as DevOps tools) : Since june 2020, developping Limawi. Cloud, DevOps and tools for all of that.
+* Lengronne & Partners
+  * Co-founder ([Limawi](https://limawi.io/en-us/) as DevOps tools) : Since june 2020, developping Limawi. Cloud, DevOps and tools for all of that.
+Vagrant, Ansible, Docker, Inspec, Gitlab, Copier-org, Bats, Cucumber...
+    * Developing an immutable, ductile and containerised dev factory.
+    * Developing a [copier-org extension in python to automate the converging of git repositories templates](https://www.youtube.com/watch?v=vAEnGMXI-mI&list=PLxwBo3NMK7iIeAe8w1KZl4rG2dyP7irpz).
+    * Developing container images with variable uid for OpenSSH client and server.
+    * Developing a [containerised repositories Ansible deploy (Galaxy, pip, npm...) with Pulp3](https://www.youtube.com/watch?v=Dg4XkEwNiE4&list=PLxwBo3NMK7iJuEwwEaRTl0uxcCTXjM3MS).
     * Developing a [containerised Concourse-ci Ansible deploy (french)](https://www.youtube.com/watch?v=mNDugLHHu4s&list=PLxwBo3NMK7iLDj_Mma5_Ks-iPuIfr-dZC).
     * Developing a [containerised Vagrant (french)](https://www.youtube.com/watch?v=Cye_VcduBXw&list=PLxwBo3NMK7iJaK_p4NBAt26YCvwkZVbkp).
     * Developing a [containerised Hashicorp Vault Ansible deploy (french)](https://www.youtube.com/watch?v=eUk71hmXgBk&list=PLxwBo3NMK7iLdAUhHl5GGyhakPACLdAst).
@@ -35,6 +56,7 @@ Developing [Github Actions for the dev-sec.io project](https://dev-sec.io/blog/2
 The first one was MyCrypNet.
     * Setting BDD on the Jenkins pipeline with Cucumber/Capybara/Selenium.
     * Setting OWASP ZAP on the Jenkins pipeline.
+    * Developing an OIDC in PHP with SLO, session management (front and back) and d'autologin/autologout distribution with cookie.
   * Co-founder (itis4u.ch) : From june 2013 to may 2014, developping itis4u.ch. A secure cloud. Slowly modified in Limawi between may 2014 and may 2016. It also changed to become an apps catalog.
     * Setting Gitlab-CE and Jenkins in august 2013.
     * Test and deploy of a MariaDB cluster with Ansible ([the original usecase goes back to 2012](https://jira.mariadb.org/browse/MDEV-3797)).
@@ -59,35 +81,10 @@ The first one was MyCrypNet.
 * École supérieure de Commerce de Clermont-Ferrand : Master, Business Administration and Management (2010-2013)
 * Ruhr-Universität Bochum : Erasmus, IT security (2011-2012)
 
-# Currently
-
-* 🔭 I'm currently working on developing the [Limawi] company tools and infrastructure.
-* 💬 I talk about cybersecurity and DevSecOps. I create 🎞️ videos, slides, diagrams and write 📋 articles (mainly in french) on the [Limawi] platform, its [blog](https://blog.limawi.io/en),
-its [Youtube channel](https://www.youtube.com/channel/UCMOB2D3-V5KijCbg6n-DmfA) and its [Instagram account](https://www.instagram.com/limawi.official/).
-* I stream regularly on [Twitch (Limawi)]
-* I tweet things on [Twitter]
-
-[@Limawi]: https://github.com/Limawi "Limawi Github team"
-[Limawi]: https://limawi.io/en "Limawi website"
-[Linkedin]: https://www.linkedin.com/in/micheelengronne "Michée Lengronne LinkedIn profile"
-[Twitter]: https://twitter.com/MicheeLengronne "Michée Lengronne Twitter"
-[Twitch (Limawi)]: https://www.twitch.tv/limawiofficial "Limawi Twitch"
+# Certifications
+* [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/cc249cae-d2fc-4bd3-8965-858227b4bade/public_url), obsolete
+* [Databricks Academy Accreditation: platform Administrator](https://credentials.databricks.com/b6864de6-fc67-4d0c-8d8c-a5c20e76a615#gs.2m8b0k), obsolete
 
 ---
 
 Note: This README is entirely done in markdown.
-
-<!--
-**micheelengronne/micheelengronne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

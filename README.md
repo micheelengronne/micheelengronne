@@ -6,11 +6,13 @@ Transforming your infrastructures and data to 0-trust, on-premise cloud-native d
 
 Expertise in Platform, Big Data, DevOps, IT security (DevSecOps) and Opensource.
 
-Platform: [Ansible](https://docs.ansible.com/), [Kubernetes](https://kubernetes.io/) (and [Openshift](https://www.redhat.com/fr/technologies/cloud-computing/openshift)), [Cilium](https://cilium.io/), [Vagrant](https://developer.hashicorp.com/vagrant), [Inspec](https://github.com/inspec/inspec), [KVM](https://www.redhat.com/en/topics/virtualization/what-is-KVM), [Docker](https://www.docker.com/), [Gitlab](https://about.gitlab.com/), [Terraform](https://developer.hashicorp.com/terraform), [Pulumi](https://www.pulumi.com/)
+Platform: [Ansible](https://docs.ansible.com/), [Kubernetes](https://kubernetes.io/) (and [Openshift](https://www.redhat.com/fr/technologies/cloud-computing/openshift)), [Cilium](https://cilium.io/), [Vagrant](https://developer.hashicorp.com/vagrant), [Inspec](https://github.com/inspec/inspec), [KVM](https://www.redhat.com/en/topics/virtualization/what-is-KVM), [Docker](https://www.docker.com/), [Gitlab](https://about.gitlab.com/), [Terraform](https://developer.hashicorp.com/terraform), [Pulumi](https://www.pulumi.com/), Git, GNU/Linux
+
+Architecture and Management: [SaFe](https://framework.scaledagile.com/) and [Scrum](https://www.scrum.org/), [C4](https://c4model.com/), [Arc42](https://arc42.org/), [Hexagonal architecture](https://web.archive.org/web/20180822100852/alistair.cockburn.us/Hexagonal+architecture), [OWASP SAMM](https://owaspsamm.org/model/)
 
 Data: [Kafka](https://kafka.apache.org/), [Nifi](https://nifi.apache.org/), [Trino](https://trino.io/), [Spark](https://spark.apache.org/), [Datahub](https://datahub.com/), [Metabase](https://www.metabase.com/), [Metastore](https://lakefs.io/blog/hive-metastore-why-its-still-here-and-what-can-replace-it/)
 
-Compliance and Security: [OWASP SAMM](https://owaspsamm.org/model/), TLS, [Kyverno](https://kyverno.io/), GnuPG, [Metasploit](https://www.metasploit.com/), [ZAP](https://www.zaproxy.org/)
+Compliance and Security: SSL/TLS, [Kyverno](https://kyverno.io/), GnuPG, [Metasploit](https://www.metasploit.com/), [ZAP](https://www.zaproxy.org/)
 
 Languages: Python, Ruby, Golang
 

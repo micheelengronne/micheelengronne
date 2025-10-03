@@ -25,16 +25,9 @@ Languages: Python, Ruby, Golang
 * Valid swiss personal security control ([PSP](https://www.sepos.admin.ch/de/personensicherheitspruefung))
 
 # Experience
-* [Scigility](https://scigility.com/en/)
-  * Platform Engineer : Since march 2022.
-    * Architecture of a Big Data platform based on Openshift in a 0-trust and highly sensitive environment. Customer under NDA.
-    * Developing a service based on Kafka and Nifi with Openshift, Stackable and Ansible in a 0-trust and highly sensitive environment. Customer under NDA.
-    * Developing a Big Data platform on-premise (Trino, Nifi, Airflow, Spark, Metabase, Datahub and Metastore) with Docker Swarm and Ansible in a highly sensitive environment. Customer under NDA.
-    * Developing a Kafka cluster on-premise (KsqlDB, Connect and Registry), air gap on RHEL with Puppet in a highly sensitive environment. Customer under NDA.
-    * Leading the development of a SSO solution between Google Workspace, AWS, Azure and multiple others.
-    * Leading the improvement of email security and deliverability (SPF, DKIM, DMARC...)
-    * Leading the development of a Big Data (Synapse) platform on Azure with Terraform.
 * Lengronne & Partners
+  * Freelance/Consulting: Since october 2025.
+    * Developing a service based on Kafka and Nifi with Openshift, Stackable and Ansible in a 0-trust and highly sensitive environment. Customer under NDA.
   * Co-founder ([Limawi](https://limawi.io/en-us/) as DevOps tools) : Since june 2020, developping Limawi. Cloud, DevOps and tools for all of that.
 Vagrant, Ansible, Docker, Inspec, Gitlab, Copier-org, Bats, Cucumber...
     * Developing an immutable, ductile and containerised dev factory.
@@ -63,6 +56,15 @@ The first one was MyCrypNet.
     * Setting Gitlab-CE and Jenkins in august 2013.
     * Test and deploy of a MariaDB cluster with Ansible ([the original usecase goes back to 2012](https://jira.mariadb.org/browse/MDEV-3797)).
     * Deploy (CD) with Jenkins of the itis4u.ch website. The frontend is done with [Drupal 7](https://www.drupal.org/u/micheelengronne).
+* [Scigility](https://scigility.com/en/)
+  * Platform Engineer : Since march 2022.
+    * Architecture of a Big Data platform based on Openshift in a 0-trust and highly sensitive environment. Customer under NDA.
+    * Developing a service based on Kafka and Nifi with Openshift, Stackable and Ansible in a 0-trust and highly sensitive environment. Customer under NDA.
+    * Developing a Big Data platform on-premise (Trino, Nifi, Airflow, Spark, Metabase, Datahub and Metastore) with Docker Swarm and Ansible in a highly sensitive environment. Customer under NDA.
+    * Developing a Kafka cluster on-premise (KsqlDB, Connect and Registry), air gap on RHEL with Puppet in a highly sensitive environment. Customer under NDA.
+    * Leading the development of a SSO solution between Google Workspace, AWS, Azure and multiple others.
+    * Leading the improvement of email security and deliverability (SPF, DKIM, DMARC...)
+    * Leading the development of a Big Data (Synapse) platform on Azure with Terraform.
 * Self-Entrepreneur : From january 2011 to june 2014, numeric data analytics, statistical analytics, technical and economical analytics. Databases management...
 
 # Some publications (mainly in french)

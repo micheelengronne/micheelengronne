@@ -20,14 +20,14 @@ Languages: Python, Ruby, Golang
 * [CV to download](https://michee.io/en-us/CV_en-us_MichéeLengronne.pdf)
 * Swiss and French
 * [LinkedIn](https://www.linkedin.com/in/micheelengronne/)
-* Speak french, english and german (intermediary level)
+* Speak french (native), english (complete) and german (medium level)
 * Free from all military obligations
 * Valid swiss personal security control ([PSP](https://www.sepos.admin.ch/de/personensicherheitspruefung))
 
 # Experience
 * Lengronne & Partners
   * Freelance/Consulting: Since october 2025.
-    * Developing a service based on Kafka and Nifi with Openshift, Stackable and Ansible in a 0-trust and highly sensitive environment. Customer under NDA.
+    * Developing a service based on Kafka and Nifi with Openshift, Stackable and Ansible in a 0-trust and highly sensitive environment. Service contract under NDA in cyberdefense.
   * Co-founder ([Limawi](https://limawi.io/en-us/) as DevOps tools) : Since june 2020, developping Limawi. Cloud, DevOps and tools for all of that.
 Vagrant, Ansible, Docker, Inspec, Gitlab, Copier-org, Bats, Cucumber...
     * Developing an immutable, ductile and containerised dev factory.
@@ -57,11 +57,11 @@ The first one was MyCrypNet.
     * Test and deploy of a MariaDB cluster with Ansible ([the original usecase goes back to 2012](https://jira.mariadb.org/browse/MDEV-3797)).
     * Deploy (CD) with Jenkins of the itis4u.ch website. The frontend is done with [Drupal 7](https://www.drupal.org/u/micheelengronne).
 * [Scigility](https://scigility.com/en/)
-  * Platform Engineer : Since march 2022.
-    * Architecture of a Big Data platform based on Openshift in a 0-trust and highly sensitive environment. Customer under NDA.
-    * Developing a service based on Kafka and Nifi with Openshift, Stackable and Ansible in a 0-trust and highly sensitive environment. Customer under NDA.
-    * Developing a Big Data platform on-premise (Trino, Nifi, Airflow, Spark, Metabase, Datahub and Metastore) with Docker Swarm and Ansible in a highly sensitive environment. Customer under NDA.
-    * Developing a Kafka cluster on-premise (KsqlDB, Connect and Registry), air gap on RHEL with Puppet in a highly sensitive environment. Customer under NDA.
+  * Platform Engineer : From march 2022 until september 2025.
+    * Architecture of a Big Data platform based on Openshift in a 0-trust and highly sensitive environment. Service contract under NDA in state services.
+    * Developing a service based on Kafka and Nifi with Openshift, Stackable and Ansible in a 0-trust and highly sensitive environment. Service contract under NDA in cyberdefense.
+    * Developing a Big Data platform on-premise (Trino, Nifi, Airflow, Spark, Metabase, Datahub and Metastore) with Docker Swarm and Ansible in a highly sensitive environment. Service contract under NDA in state services.
+    * Developing a Kafka cluster on-premise (KsqlDB, Connect and Registry), air gap on RHEL with Puppet in a highly sensitive environment. Service contract under NDA in institutional banking.
     * Leading the development of a SSO solution between Google Workspace, AWS, Azure and multiple others.
     * Leading the improvement of email security and deliverability (SPF, DKIM, DMARC...)
     * Leading the development of a Big Data (Synapse) platform on Azure with Terraform.

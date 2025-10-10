@@ -28,6 +28,7 @@ Languages: Python, Ruby, Golang
 * Lengronne & Partners
   * Freelance/Consulting: Since october 2025.
     * Developing a service based on Kafka and Nifi with Openshift, Stackable and Ansible in a 0-trust and highly sensitive environment. Service contract under NDA in cyberdefense.
+    * Architecturing and developing internal tools based on Kubernetes, Ansible, cert-manager, Kyverno, Bird, Jool, Wireguard, Rook Ceph, Cilium...
   * Co-founder ([Limawi](https://limawi.io/en-us/) as DevOps tools) : Since june 2020, developping Limawi. Cloud, DevOps and tools for all of that.
 Vagrant, Ansible, Docker, Inspec, Gitlab, Copier-org, Bats, Cucumber...
     * Developing an immutable, ductile and containerised dev factory.
@@ -66,6 +67,23 @@ The first one was MyCrypNet.
     * Leading the improvement of email security and deliverability (SPF, DKIM, DMARC...)
     * Leading the development of a Big Data (Synapse) platform on Azure with Terraform.
 * Self-Entrepreneur : From january 2011 to june 2014, numeric data analytics, statistical analytics, technical and economical analytics. Databases management...
+
+# Some Opensource contributions
+* Maintainer of [webhook-dnsendpoint](https://github.com/micheelengronne/webhook-dnsendpoint)
+* TXT support of [k8s_gateway](https://github.com/k8s-gateway/k8s_gateway/pull/108)
+* Complete TLS support of [trino (WIP)](https://github.com/trinodb/charts/pull/300)
+* Several contributions to cnspec-policies:
+  * [Revert the grub audit matchers](https://github.com/mondoohq/cnspec-policies/pull/191)
+  * [Add ending slash to match audit rule](https://github.com/mondoohq/cnspec-policies/pull/190)
+  * [Use the sudo command to check the configuration](https://github.com/mondoohq/cnspec-policies/pull/189)
+* Several contributions to dev-sec framework:
+  * [In a container, sshd should not run as root](https://github.com/dev-sec/ssh-baseline/pull/152)
+  * [Github actions](https://github.com/dev-sec/ssl-baseline/pull/32)
+  * [Debug force_ssl](https://github.com/dev-sec/ssl-baseline/pull/30)
+  * [Update for Inspec 4](https://github.com/dev-sec/ssl-baseline/pull/29)
+* Contribution to [Kubespray](https://github.com/kubernetes-sigs/kubespray/pull/5274)
+* Contribution to [marge-bot](https://github.com/smarkets/marge-bot/pull/206)
+* Contribution to [molecule](https://github.com/ansible/molecule/pull/2025)
 
 # Some publications (mainly in french)
 * [DevOps stream three times a week (french)](https://www.twitch.tv/limawiofficial)
